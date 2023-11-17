@@ -15,7 +15,8 @@ __:microscope: Tech Stack :microscope:__
   <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/>
 
 <br />
-<br /><br />
+<br />
+
 __:wrench: Tools :wrench:__
 
 <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
@@ -23,8 +24,7 @@ __:wrench: Tools :wrench:__
 
 __:low_brightness: SNS & Portfolio :low_brightness:__
 
-<img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/> <img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/>
-
+<a href='https://jihyungk.tistory.com/'><img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/></a> <a href="https://www.notion.so/4a1591384ba44ab1af31adbea38fb36c"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/> </a>
 
 <br />
 <br />
