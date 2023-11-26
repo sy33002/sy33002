@@ -24,7 +24,7 @@ __:wrench: Tools :wrench:__
 
 __:low_brightness: SNS & Portfolio :low_brightness:__
 
-<a href='https://jihyungk.tistory.com/'><img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/></a> <a href="https://www.notion.so/4a1591384ba44ab1af31adbea38fb36c"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/> </a>
+<a href='https://jihyungk.tistory.com/'><img src="https://img.shields.io/badge/tistory-000000?style=flat&logo=tistory&logoColor=white"/></a> <a href="https://prickly-comet-aed.notion.site/4a1591384ba44ab1af31adbea38fb36c?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white"/> </a>
 
 <br />
 <br />
