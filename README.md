@@ -44,7 +44,7 @@ __:memo: 2차 프로젝트__
 
 __:memo: 3차 프로젝트__
 
-<a href="https://github.com/sessac-3rd-team-A/FE"><img src="https://github.com/sy33002/sy33002/assets/113359008/a29f884f-6fc5-49c9-a8b9-a4bb80e32e43" width=400 height=300> </a>
+<a href="https://github.com/sessac-3rd-team-A/FE"><img src="https://github.com/sy33002/sy33002/assets/113359008/fcc3fa51-f39b-4e50-80e8-7de146844e91" width=400 height=300> </a>
 
 <br />
 
